@@ -1,24 +1,23 @@
-# 123
+# Гайд епты
 
-## Project setup
+## Установить модули для работы собсна
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Компиляция и красота в сайте(там ссылки в терминале выпадут)
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### ХЗ
 ```
 npm run build
 ```
 
-### Lints and fixes files
-```
+### ХЗ х2
 npm run lint
 ```
 
-### Customize configuration
+### ХЗ х3
 See [Configuration Reference](https://cli.vuejs.org/config/).
